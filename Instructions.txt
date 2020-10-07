@@ -1,0 +1,12 @@
+Instructions:-
+1. For running our python file use any python interpreter.
+2. Install the following python libraries: 
+*tkinter
+*pygame
+*mutagen
+*time
+*beautifulsoup4
+*google
+*threading
+3. Have a good internet connection to run the ‘search from YouTube’ option successfully.
+Have a nice day!
