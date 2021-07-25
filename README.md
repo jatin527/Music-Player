@@ -1,5 +1,5 @@
 # Music-Player-Python
-A python program in which you can play songs from your local playlist or youtube by enter name of song in search bar given in this.
+A python program in which you can play songs from your local computer by adding them to a playlist or youtube by enter name of song in search bar given in this.
 
 ## Tech-Stack <a name = "tech_stack"></a>
 - Programming Language - [Python](https://www.python.org/)
